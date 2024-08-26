@@ -1,0 +1,4 @@
+# spring.application.name=wxlogin
+spring:
+  application:
+    name: wxlogin
